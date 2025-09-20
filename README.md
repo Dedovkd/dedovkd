@@ -1,6 +1,6 @@
 # Welcome to my profile👋!
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dedovkd&show_icons=true&theme=synthwave)
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dedovkd&theme=tokyonight" alt="mystreak"/>
 
 <!--
 **Dedovkd/dedovkd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
