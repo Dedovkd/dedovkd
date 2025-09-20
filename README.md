@@ -1,4 +1,5 @@
 # Welcome to my profile👋!
+![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dedovkd&show_icons=true&theme=synthwave)
 
